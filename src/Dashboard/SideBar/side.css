@@ -1,0 +1,70 @@
+.side-bar {
+	width: 300px;
+
+    height: 100vh;
+
+}
+
+.profile {
+    padding-top: 50px;
+	height: 150px;
+	width: 100%;
+	border-bottom-style: solid;
+	border-bottom-width: 0.5px;
+    border-color: rgb(243, 239, 239);
+    
+        
+
+}
+.userImage{
+    height: 50px;
+    width: 50px;
+     border-radius: 50%;
+
+}
+span{
+    font-weight: bold;
+}
+
+.icon-item{
+       
+   display: flex;
+   align-items: stretch;
+   padding-top: 13px;
+}
+.icon-item > div{
+    padding-right: 15px;
+
+}
+.title{
+    font-weight: 300;
+    font-size: 20px;
+}
+
+
+.selectTile{
+    
+    height: 40px;
+    width: 100%;
+    background-color:#4a98e0;
+    font-size: 16px;
+    text-size-adjust: 3px;
+    color: white;
+
+}
+.listTile{
+    height: 40px;
+    width: 100%;
+    font-size: 16px;
+    text-size-adjust: 3px;
+}
+
+.listTile:hover{
+background-color: rgb(216, 211, 212) 
+}
+
+
+
+
+
+
